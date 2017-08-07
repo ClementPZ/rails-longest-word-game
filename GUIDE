@@ -1,0 +1,16 @@
+GUIDE
+
+dans App puis Asset:
+  stylesheet,
+  Model
+  View
+  Controller
+
+dans Config:
+  Routes
+
+dans DB:
+  Migrate,
+  Create
+  Seeds
+
